@@ -1,4 +1,4 @@
-# Dufu Skill | Natural Chinese Writing
+# Dufu
 
 Rewrite stiff, vague, template-like Chinese into concrete, restrained prose with lived detail while preserving facts, numbers, proper names, and the author's intent.
 

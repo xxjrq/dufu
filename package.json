@@ -1,7 +1,7 @@
 {
   "name": "dufu",
-  "version": "1.0.0",
-  "description": "杜甫.Skill 中文真实写作",
+  "version": "1.0.1",
+  "description": "杜甫中文真实写作",
   "author": "xxjrq",
   "private": false,
   "license": "MIT",

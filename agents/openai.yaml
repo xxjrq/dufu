@@ -1,5 +1,5 @@
 interface:
-  display_name: "杜甫.Skill｜中文真实写作"
+  display_name: "杜甫"
   short_description: "把空话改成具体、克制、有生活质感的中文"
   icon_small: "./assets/icon-512.png"
   icon_large: "./assets/icon-512.png"
